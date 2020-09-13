@@ -26,7 +26,7 @@ public class SignIn extends TestBase {
 	public void loginValidation(String username, String password) throws IOException, InterruptedException {
 		driver = initializeDriver();
 		driver.get(p.getProperty("url"));
-		log.info("Invoking url for login validation test cases");
+		//log.info("Invoking url for login validation test cases");
 		
 		WebDriverWait w = new WebDriverWait(driver, 30);
 		LandingPage lp = new LandingPage(driver);
