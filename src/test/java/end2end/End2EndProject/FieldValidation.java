@@ -40,7 +40,7 @@ public class FieldValidation extends TestBase {
 		
 		Assert.assertEquals(lp.registerButton().getText(),"Register");
 		log.info("register spelling also has been checked");
-		System.out.println(System.getProperties());
+		//System.out.println(System.getProperties());
 		driver.quit();
 		}
   
