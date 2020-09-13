@@ -1,0 +1,7 @@
+23:03:09.900 [main] INFO  SignIn - Driver is closed
+23:03:18.698 [main] INFO  FieldValidation - Invoking url for field validation test cases
+23:03:19.194 [main] INFO  FieldValidation - navigation bar is checked and it is present
+23:08:00.767 [main] INFO  SignIn - Invoking url for login validation test cases
+23:08:03.640 [main] INFO  SignIn - Waited till the login button becomes clickable
+23:08:04.585 [main] INFO  SignIn - Entered the credentials and clicked on submit button successfully
+23:08:06.170 [main] INFO  SignIn - Driver is closed
